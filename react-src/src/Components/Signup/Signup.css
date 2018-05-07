@@ -1,0 +1,9 @@
+.mcontainer {
+    background-color: #F8F9FA;
+    width: 30%;
+    padding: 2%;
+}
+
+.hide {
+    display: none;
+}
